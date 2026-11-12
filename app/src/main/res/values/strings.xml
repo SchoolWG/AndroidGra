@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CyberTap Reflex</string>
+    <string name="game_title">CYBER TAP</string>
+    <string name="game_subtitle">Sprawdź swój refleks!</string>
+    <string name="start_game">START GRY</string>
+    <string name="play_again">ZAGRAJ PONOWNIE</string>
+    <string name="score_label">Wynik: </string>
+    <string name="highscore_label">Rekord: </string>
+    <string name="time_label">Czas: </string>
+    <string name="combo_label">COMBO: x</string>
+    <string name="game_over">KONIEC GRY!</string>
+</resources>
